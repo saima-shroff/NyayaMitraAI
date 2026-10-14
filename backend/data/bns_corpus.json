@@ -1,0 +1,218 @@
+[
+  {
+    "section_number": "2",
+    "title": "Definitions (selected)",
+    "chapter": "Chapter I - Preliminary",
+    "ipc_equivalent": "IPC Section 6-52A (General definitions)",
+    "keywords": ["definitions", "dishonestly", "fraudulently", "movable property", "child", "gender", "person", "voluntarily"],
+    "text": "In this Sanhita, unless the context otherwise requires: (6) 'child' means any person below the age of eighteen years; (10) 'gender' - the pronoun 'he' and its derivatives are used of any person, whether male, female or transgender; (11) 'good faith' - nothing is said to be done or believed in good faith which is done or believed without due care and attention; (7) 'counterfeit', (9) 'dishonestly' - whoever does anything with the intention of causing wrongful gain to one person or wrongful loss to another person, is said to do that thing 'dishonestly'; (10) 'fraudulently' - a person is said to do a thing fraudulently if he does that thing with intent to defraud but not otherwise; (21) 'movable property' includes corporeal property of every description, except land and things attached to the earth, or permanently fastened to anything which is attached to the earth; (26) 'person' includes any company or association or body of persons, whether incorporated or not; (33) 'voluntarily' - a person is said to cause an effect 'voluntarily' when he causes it by means whereby he intended to cause it, or by means which, at the time of employing those means, he knew or had reason to believe to be likely to cause it.",
+    "punishment": "Not applicable (definitions section)."
+  },
+  {
+    "section_number": "35",
+    "title": "Right of private defence of the body and of property",
+    "chapter": "Chapter III - General Exceptions",
+    "ipc_equivalent": "IPC Section 97",
+    "keywords": ["private defence", "self defence", "self-defence", "protect", "attack", "defend", "property"],
+    "text": "Every person has a right, subject to the restrictions contained in section 37, to defend: (a) his own body, and the body of any other person, against any offence affecting the human body; (b) the property, whether movable or immovable, of himself or of any other person, against any act which is an offence falling under the definition of theft, robbery, mischief or criminal trespass, or which is an attempt to commit theft, robbery, mischief or criminal trespass. The right extends only to the force reasonably necessary to repel the threat and ends once the danger has ceased.",
+    "punishment": "Not an offence; a general exception that may be raised as a defence."
+  },
+  {
+    "section_number": "63",
+    "title": "Rape",
+    "chapter": "Chapter V - Offences Against Woman and Child",
+    "ipc_equivalent": "IPC Section 375",
+    "keywords": ["rape", "consent", "sexual assault", "woman", "sexual intercourse"],
+    "text": "A man is said to commit 'rape' if he - (a) penetrates his penis, to any extent, into the vagina, mouth, urethra or anus of a woman or makes her to do so with him or any other person; or (b) inserts, to any extent, any object or a part of the body, not being the penis, into the vagina, the urethra or anus of a woman or makes her to do so with him or any other person; or (c) manipulates any part of the body of a woman so as to cause penetration; or (d) applies his mouth to the vagina, anus, urethra of a woman or makes her to do so with him or any other person, under the circumstances falling under any of the following seven descriptions: First - against her will. Secondly - without her consent. Thirdly - with her consent, when her consent has been obtained by putting her or any person in whom she is interested in fear of death or of hurt. Fourthly - with her consent, when the man knows that he is not her husband and that her consent is given because she believes that he is another man to whom she is or believes herself to be lawfully married. Fifthly - with her consent when, at the time of giving such consent, by reason of unsoundness of mind or intoxication, she is unable to understand the nature and consequences of that to which she gives consent. Sixthly - with or without her consent, when she is under eighteen years of age. Seventhly - when she is unable to communicate consent.",
+    "punishment": "See Section 64."
+  },
+  {
+    "section_number": "64",
+    "title": "Punishment for rape",
+    "chapter": "Chapter V - Offences Against Woman and Child",
+    "ipc_equivalent": "IPC Section 376",
+    "keywords": ["rape", "punishment", "rigorous imprisonment", "sexual offence"],
+    "text": "(1) Whoever, except in the cases provided for in sub-section (2), commits rape, shall be punished with rigorous imprisonment of either description for a term which shall not be less than ten years, but which may extend to imprisonment for life, and shall also be liable to fine. (2) Aggravated forms of rape, including rape by a police officer, public servant, member of the armed forces, person in a position of trust or authority, rape causing grievous bodily harm, or repeated rape of the same woman, are punishable with rigorous imprisonment for a term not less than ten years which may extend to imprisonment for life, which shall mean imprisonment for the remainder of that person's natural life, and fine.",
+    "punishment": "Rigorous imprisonment not less than 10 years, extendable to life imprisonment, and fine."
+  },
+  {
+    "section_number": "74",
+    "title": "Assault or criminal force to woman with intent to outrage her modesty",
+    "chapter": "Chapter V - Offences Against Woman and Child",
+    "ipc_equivalent": "IPC Section 354",
+    "keywords": ["outraging modesty", "molestation", "assault woman", "criminal force", "harassment"],
+    "text": "Whoever assaults or uses criminal force to any woman, intending to outrage or knowing it to be likely that he will thereby outrage her modesty, shall be punished with imprisonment of either description for a term which shall not be less than one year but which may extend to five years, and shall also be liable to fine.",
+    "punishment": "Imprisonment of either description for 1 to 5 years, and fine."
+  },
+  {
+    "section_number": "100",
+    "title": "Culpable homicide",
+    "chapter": "Chapter VI - Offences Affecting the Human Body",
+    "ipc_equivalent": "IPC Section 299",
+    "keywords": ["culpable homicide", "death", "killing", "intention", "knowledge"],
+    "text": "Whoever causes death by doing an act with the intention of causing death, or with the intention of causing such bodily injury as is likely to cause death, or with the knowledge that he is likely by such act to cause death, commits the offence of culpable homicide.",
+    "punishment": "See Section 105."
+  },
+  {
+    "section_number": "101",
+    "title": "Murder",
+    "chapter": "Chapter VI - Offences Affecting the Human Body",
+    "ipc_equivalent": "IPC Section 300",
+    "keywords": ["murder", "homicide", "killing", "exceptions", "grave and sudden provocation"],
+    "text": "Except in the cases hereinafter excepted, culpable homicide is murder, if the act by which the death is caused is done with the intention of causing death, or if it is done with the intention of causing such bodily injury as the offender knows to be likely to cause the death of the person to whom the harm is caused, or if it is done with the intention of causing bodily injury to any person and the bodily injury intended to be inflicted is sufficient in the ordinary course of nature to cause death, or if the person committing the act knows that it is so imminently dangerous that it must, in all probability, cause death or such bodily injury as is likely to cause death, and commits such act without any excuse for incurring the risk of causing death or such injury. Culpable homicide is not murder if the offender, whilst deprived of the power of self-control by grave and sudden provocation, causes the death of the person who gave the provocation, or if the offender exceeds in good faith the right of private defence, among other exceptions.",
+    "punishment": "See Section 103."
+  },
+  {
+    "section_number": "103",
+    "title": "Punishment for murder",
+    "chapter": "Chapter VI - Offences Affecting the Human Body",
+    "ipc_equivalent": "IPC Section 302",
+    "keywords": ["murder", "punishment", "death penalty", "life imprisonment", "mob lynching"],
+    "text": "(1) Whoever commits murder shall be punished with death or imprisonment for life, and shall also be liable to fine. (2) When a group of five or more persons acting in concert commits murder on the ground of race, caste or community, sex, place of birth, language, personal belief or any other similar ground, each member of such group shall be punished with death or with imprisonment for life, and shall also be liable to fine.",
+    "punishment": "Death or imprisonment for life, and fine."
+  },
+  {
+    "section_number": "105",
+    "title": "Punishment for culpable homicide not amounting to murder",
+    "chapter": "Chapter VI - Offences Affecting the Human Body",
+    "ipc_equivalent": "IPC Section 304",
+    "keywords": ["culpable homicide", "not amounting to murder", "punishment", "imprisonment"],
+    "text": "Whoever commits culpable homicide not amounting to murder shall be punished with imprisonment for life, or imprisonment of either description for a term which shall not be less than five years but which may extend to ten years, and shall also be liable to fine, if the act by which the death is caused is done with the intention of causing death or of causing such bodily injury as is likely to cause death; or with imprisonment of either description for a term which may extend to ten years, or with fine, or with both, if the act is done with the knowledge that it is likely to cause death, but without any intention to cause death.",
+    "punishment": "Life imprisonment, or 5 to 10 years imprisonment and fine (act done with intention); up to 10 years, or fine, or both (act done with knowledge only)."
+  },
+  {
+    "section_number": "106",
+    "title": "Causing death by negligence",
+    "chapter": "Chapter VI - Offences Affecting the Human Body",
+    "ipc_equivalent": "IPC Section 304A",
+    "keywords": ["negligence", "rash", "death", "accident", "doctor", "medical", "hit and run", "road accident"],
+    "text": "(1) Whoever causes death of any person by doing any rash or negligent act not amounting to culpable homicide, shall be punished with imprisonment of either description for a term which may extend to five years, and shall also be liable to fine; and if such act is done by a registered medical practitioner while performing a medical procedure, he shall be punished with imprisonment of either description for a term which may extend to two years, and shall also be liable to fine. (2) Whoever causes death of any person by rash and negligent driving of a vehicle not amounting to culpable homicide, and escapes without reporting it to a police officer or a Magistrate soon after the incident, shall be punished with imprisonment of either description of a term which may extend to ten years, and shall also be liable to fine.",
+    "punishment": "Up to 5 years and fine (up to 2 years for registered medical practitioners); up to 10 years and fine for rash driving followed by failure to report."
+  },
+  {
+    "section_number": "108",
+    "title": "Abetment of suicide",
+    "chapter": "Chapter VI - Offences Affecting the Human Body",
+    "ipc_equivalent": "IPC Section 306",
+    "keywords": ["suicide", "abetment", "abet", "instigation"],
+    "text": "If any person commits suicide, whoever abets the commission of such suicide, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+    "punishment": "Imprisonment up to 10 years, and fine."
+  },
+  {
+    "section_number": "115",
+    "title": "Voluntarily causing hurt",
+    "chapter": "Chapter VI - Offences Affecting the Human Body",
+    "ipc_equivalent": "IPC Sections 319 and 323",
+    "keywords": ["hurt", "assault", "beating", "injury", "slap", "bodily pain"],
+    "text": "(1) Whoever causes bodily pain, disease or infirmity to any person is said to cause hurt. (2) Whoever, except in the case provided for by section 122(1), voluntarily causes hurt, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to ten thousand rupees, or with both.",
+    "punishment": "Imprisonment up to 1 year, or fine up to Rs 10,000, or both."
+  },
+  {
+    "section_number": "117",
+    "title": "Voluntarily causing grievous hurt",
+    "chapter": "Chapter VI - Offences Affecting the Human Body",
+    "ipc_equivalent": "IPC Sections 320 and 325",
+    "keywords": ["grievous hurt", "fracture", "emasculation", "permanent injury", "serious injury"],
+    "text": "(1) The following kinds of hurt only are designated as grievous: emasculation; permanent privation of the sight of either eye; permanent privation of the hearing of either ear; privation of any member or joint; destruction or permanent impairing of the powers of any member or joint; permanent disfiguration of the head or face; fracture or dislocation of a bone or tooth; and any hurt which endangers life or which causes the sufferer to be during the space of fifteen days in severe bodily pain, or unable to follow his ordinary pursuits. (2) Whoever, except in the case provided for by section 122(2), voluntarily causes grievous hurt, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+    "punishment": "Imprisonment up to 7 years, and fine."
+  },
+  {
+    "section_number": "126",
+    "title": "Wrongful restraint",
+    "chapter": "Chapter VI - Offences Affecting the Human Body",
+    "ipc_equivalent": "IPC Sections 339 and 341",
+    "keywords": ["wrongful restraint", "obstruct", "blocking", "prevent movement"],
+    "text": "(1) Whoever voluntarily obstructs any person so as to prevent that person from proceeding in any direction in which that person has a right to proceed, is said wrongfully to restrain that person. (2) Whoever wrongfully restrains any person shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to five thousand rupees, or with both.",
+    "punishment": "Simple imprisonment up to 1 month, or fine up to Rs 5,000, or both."
+  },
+  {
+    "section_number": "137",
+    "title": "Kidnapping",
+    "chapter": "Chapter VI - Offences Affecting the Human Body",
+    "ipc_equivalent": "IPC Sections 359 to 363",
+    "keywords": ["kidnapping", "abduction", "minor", "lawful guardian", "missing child"],
+    "text": "(1) Kidnapping is of two kinds: kidnapping from India, and kidnapping from lawful guardianship. (2) Whoever kidnaps any person from India or from lawful guardianship shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine. Whoever takes or entices any child or any person of unsound mind, out of the keeping of the lawful guardian of such child or person, without the consent of such guardian, is said to kidnap such child or person from lawful guardianship; a child here means a male under sixteen or a female under eighteen years of age.",
+    "punishment": "Imprisonment up to 7 years, and fine."
+  },
+  {
+    "section_number": "303",
+    "title": "Theft",
+    "chapter": "Chapter XVII - Offences Against Property",
+    "ipc_equivalent": "IPC Sections 378 and 379",
+    "keywords": ["theft", "steal", "stole", "stolen", "phone", "mobile", "wallet", "bike", "thief", "dishonest", "movable property", "snatching", "pickpocket"],
+    "text": "(1) Whoever, intending to take dishonestly any movable property out of the possession of any person without that person's consent, moves that property in order to such taking, is said to commit theft. (2) Whoever commits theft shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both, and in case of a second or subsequent conviction of theft, shall be punished with rigorous imprisonment for a term which shall not be less than one year but which may extend to five years and with fine. Where the theft is of property valued at less than five thousand rupees and the accused is convicted for the first time and the property is returned or its value restored, the punishment shall be community service.",
+    "punishment": "Up to 3 years, or fine, or both; repeat offence: rigorous imprisonment 1 to 5 years and fine; first-time petty theft with restitution: community service."
+  },
+  {
+    "section_number": "309",
+    "title": "Robbery",
+    "chapter": "Chapter XVII - Offences Against Property",
+    "ipc_equivalent": "IPC Sections 390 and 392",
+    "keywords": ["robbery", "extortion", "violence", "hurt", "fear", "loot", "snatching"],
+    "text": "(1) In all robbery there is either theft or extortion. (2) Theft is robbery if, in order to the committing of the theft, or in committing the theft, or in carrying away or attempting to carry away property obtained by the theft, the offender, for that end, voluntarily causes or attempts to cause to any person death or hurt or wrongful restraint, or fear of instant death or of instant hurt, or of instant wrongful restraint. (4) Whoever commits robbery shall be punished with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine; and if the robbery is committed on the highway between sunset and sunrise, the imprisonment may be extended to fourteen years.",
+    "punishment": "Rigorous imprisonment up to 10 years and fine (up to 14 years for highway robbery at night)."
+  },
+  {
+    "section_number": "310",
+    "title": "Dacoity",
+    "chapter": "Chapter XVII - Offences Against Property",
+    "ipc_equivalent": "IPC Sections 391 and 395",
+    "keywords": ["dacoity", "gang", "five persons", "robbery", "murder in dacoity"],
+    "text": "(1) When five or more persons conjointly commit or attempt to commit a robbery, or where the whole number of persons conjointly committing or attempting to commit a robbery, and persons present and aiding such commission or attempt, amount to five or more, every person so committing, attempting or aiding, is said to commit dacoity. (2) Whoever commits dacoity shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine. (3) If any one of the persons committing dacoity commits murder in so committing dacoity, every one of those persons shall be punished with death, or imprisonment for life, or rigorous imprisonment for a term which shall not be less than ten years, and shall also be liable to fine.",
+    "punishment": "Life imprisonment, or rigorous imprisonment up to 10 years, and fine; death, life or at least 10 years if murder is committed during dacoity."
+  },
+  {
+    "section_number": "316",
+    "title": "Criminal breach of trust",
+    "chapter": "Chapter XVII - Offences Against Property",
+    "ipc_equivalent": "IPC Sections 405 and 406",
+    "keywords": ["criminal breach of trust", "entrusted", "misappropriation", "embezzlement", "trust", "employee"],
+    "text": "(1) Whoever, being in any manner entrusted with property, or with any dominion over property, dishonestly misappropriates or converts to his own use that property, or dishonestly uses or disposes of that property in violation of any direction of law prescribing the mode in which such trust is to be discharged, or of any legal contract, express or implied, which he has made touching the discharge of such trust, or wilfully suffers any other person so to do, commits 'criminal breach of trust'. (2) Whoever commits criminal breach of trust shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both. (4) Where the offender is a clerk or servant entrusted with property, the imprisonment may extend to seven years and fine; and where the offender is a public servant, banker, merchant, agent, broker, attorney or lawyer, the punishment may be imprisonment for life or up to ten years, and fine.",
+    "punishment": "Up to 5 years, or fine, or both (higher for clerks, servants, public servants, bankers, agents and lawyers)."
+  },
+  {
+    "section_number": "318",
+    "title": "Cheating",
+    "chapter": "Chapter XVII - Offences Against Property",
+    "ipc_equivalent": "IPC Sections 415 to 420",
+    "keywords": ["cheating", "fraud", "deceive", "dishonestly inducing", "scam", "delivery of property"],
+    "text": "(1) Whoever, by deceiving any person, fraudulently or dishonestly induces the person so deceived to deliver any property to any person, or to consent that any person shall retain any property, or intentionally induces the person so deceived to do or omit to do anything which he would not do or omit if he were not so deceived, and which act or omission causes or is likely to cause damage or harm to that person in body, mind, reputation or property, is said to cheat. (2) Whoever cheats shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both. (4) Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+    "punishment": "Up to 3 years, or fine, or both (simple cheating); up to 7 years and fine (cheating and dishonestly inducing delivery of property)."
+  },
+  {
+    "section_number": "324",
+    "title": "Mischief",
+    "chapter": "Chapter XVII - Offences Against Property",
+    "ipc_equivalent": "IPC Sections 425 and 426",
+    "keywords": ["mischief", "damage", "destroy property", "vandalism", "wrongful loss"],
+    "text": "(1) Whoever, with intent to cause, or knowing that he is likely to cause, wrongful loss or damage to the public or to any person, causes the destruction of any property, or any such change in any property or in the situation thereof as destroys or diminishes its value or utility, or affects it injuriously, commits 'mischief'. (2) Whoever commits mischief shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both. (3) Where the mischief causes loss or damage to the amount of twenty thousand rupees or more but less than fifty thousand rupees, imprisonment may extend to one year, or fine, or both.",
+    "punishment": "Up to 6 months, or fine, or both (higher if the loss is Rs 20,000 or more)."
+  },
+  {
+    "section_number": "329",
+    "title": "Criminal trespass and house-trespass",
+    "chapter": "Chapter XVII - Offences Against Property",
+    "ipc_equivalent": "IPC Sections 441 to 448",
+    "keywords": ["trespass", "house trespass", "enter property", "intimidate", "annoy", "unlawful entry"],
+    "text": "(1) Whoever enters into or upon property in the possession of another with intent to commit an offence or to intimidate, insult or annoy any person in possession of such property, or having lawfully entered, unlawfully remains there with intent thereby to intimidate, insult or annoy any such person, or with intent to commit an offence, is said to commit 'criminal trespass'. (3) Whoever commits criminal trespass shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to five thousand rupees, or with both. (4) Whoever commits house-trespass shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to five thousand rupees, or with both.",
+    "punishment": "Criminal trespass: up to 3 months, or fine up to Rs 5,000, or both. House-trespass: up to 1 year, or fine up to Rs 5,000, or both."
+  },
+  {
+    "section_number": "351",
+    "title": "Criminal intimidation",
+    "chapter": "Chapter XIX - Criminal Intimidation, Insult, Annoyance, Defamation",
+    "ipc_equivalent": "IPC Sections 503 and 506",
+    "keywords": ["criminal intimidation", "threat", "threaten", "anonymous", "blackmail", "fear"],
+    "text": "(1) Whoever threatens another with any injury to his person, reputation or property, or to the person or reputation of any one in whom that person is interested, with intent to cause alarm to that person, or to cause that person to do any act which he is not legally bound to do, or to omit to do any act which that person is legally entitled to do, as the means of avoiding the execution of such threat, commits criminal intimidation. (2) Whoever commits criminal intimidation shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both. (3) If the threat is to cause death or grievous hurt, or to destroy any property by fire, or to cause an offence punishable with death or imprisonment for life or imprisonment for seven years, the imprisonment may extend to seven years, or fine, or both. (4) Whoever commits criminal intimidation by an anonymous communication shall be punished with imprisonment up to two years in addition to the punishment above.",
+    "punishment": "Up to 2 years, or fine, or both; up to 7 years for threats of death, grievous hurt or arson; additional 2 years for anonymous threats."
+  },
+  {
+    "section_number": "356",
+    "title": "Defamation",
+    "chapter": "Chapter XIX - Criminal Intimidation, Insult, Annoyance, Defamation",
+    "ipc_equivalent": "IPC Sections 499 and 500",
+    "keywords": ["defamation", "reputation", "libel", "slander", "imputation", "social media", "false statement"],
+    "text": "(1) Whoever, by words either spoken or intended to be read, or by signs or by visible representations, makes or publishes any imputation concerning any person intending to harm, or knowing or having reason to believe that such imputation will harm, the reputation of such person, is said to defame that person, except in the cases hereinafter excepted. Explanation: It may amount to defamation to impute anything to a deceased person, if the imputation would harm the reputation of that person if living. (2) Whoever defames another shall be punished with simple imprisonment for a term which may extend to two years, or with fine, or with both, or with community service. Exceptions include imputation of truth required for the public good, and fair comment made in good faith on public conduct of public servants.",
+    "punishment": "Simple imprisonment up to 2 years, or fine, or both, or community service."
+  }
+]
