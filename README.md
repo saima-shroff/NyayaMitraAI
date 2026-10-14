@@ -19,7 +19,7 @@ I built this as a full-stack project to learn how RAG (Retrieval-Augmented Gener
 **Frontend**
 - React 18 with Vite
 - React Router, Axios
-- Tailwind CSS (navy `#0F172A` + amber `#D97706` theme)
+- Tailwind CSS 
 
 ## Key features
 
